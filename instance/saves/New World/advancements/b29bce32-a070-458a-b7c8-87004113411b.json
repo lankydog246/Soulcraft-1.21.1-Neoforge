@@ -1,0 +1,162 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-12-21 20:41:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:dark_forest": "2025-12-21 20:57:43 +0000",
+      "minecraft:jungle": "2025-12-21 20:44:39 +0000",
+      "minecraft:river": "2025-12-21 23:27:55 +0000",
+      "minecraft:bamboo_jungle": "2025-12-21 23:28:00 +0000"
+    },
+    "done": false
+  },
+  "smallships:recipes/combat/cannon": {
+    "criteria": {
+      "has_ship": "2025-12-21 20:44:42 +0000"
+    },
+    "done": true
+  },
+  "dankstorage:recipes/tools/1_to_2": {
+    "criteria": {
+      "has_dank_1": "2025-12-21 20:44:42 +0000"
+    },
+    "done": true
+  },
+  "dankstorage:recipes/tools/dank_2": {
+    "criteria": {
+      "has_dank_1": "2025-12-21 20:44:42 +0000"
+    },
+    "done": true
+  },
+  "reinfchest:recipes/decorations/gold_chest": {
+    "criteria": {
+      "has_iron_chest": "2025-12-21 20:46:43 +0000"
+    },
+    "done": true
+  },
+  "reinfchest:recipes/decorations/diamond_chest": {
+    "criteria": {
+      "has_gold_chest": "2025-12-21 20:47:42 +0000"
+    },
+    "done": true
+  },
+  "reinfchest:recipes/decorations/copper_chest": {
+    "criteria": {
+      "has_chest": "2025-12-21 20:48:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-12-21 20:53:58 +0000"
+    },
+    "done": true
+  },
+  "stellarity:events/first_time_in_end": {
+    "criteria": {
+      "requirement": "2025-12-21 20:53:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-12-21 20:53:58 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/sacrificial_ritual": {
+    "criteria": {
+      "requirement": "2025-12-21 20:54:59 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/final_showdown": {
+    "criteria": {
+      "spawn_dragon_first_time": "2025-12-21 20:55:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "kill_dragon": "2025-12-21 20:57:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_the_recipe": "2025-12-21 20:57:21 +0000"
+    },
+    "done": true
+  },
+  "stellarity:end_city/defeat_shulker": {
+    "criteria": {
+      "defeat_shulkers": "2025-12-21 20:57:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:shulker": "2025-12-21 20:57:30 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-12-21 20:57:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:shulker": "2025-12-21 20:57:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-12-21 21:14:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-12-21 21:14:43 +0000"
+    },
+    "done": true
+  },
+  "villagerinabucket:adventure/get_in_the_bucket": {
+    "criteria": {
+      "villager_in_a_bucket": "2025-12-21 21:14:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-12-21 21:14:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-12-21 21:14:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-12-21 21:14:56 +0000"
+    },
+    "done": true
+  },
+  "immortalcoral:clean_coral": {
+    "criteria": {
+      "has_coral": "2025-12-21 21:22:41 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3955
+}
